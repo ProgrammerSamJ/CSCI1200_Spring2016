@@ -1,0 +1,11 @@
+Recipe for salad already exists
+2 ingredients added to kitchen
+To make salad, mix together:
+1 unit lettuce
+2 units tomatoes
+Made salad
+Cannot make salad need to buy:
+1 unit tomatoes
+In the kitchen:
+1 unit tomatoes
+3 units lettuce

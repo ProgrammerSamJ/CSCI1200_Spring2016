@@ -1,0 +1,4 @@
+#include <iostream>
+int main() {
+	float big_array[5];
+	for (int n,n< sizeof()

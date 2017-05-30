@@ -1,0 +1,94 @@
+Recipe for cookies added
+Recipe for salad added
+Recipe for quiche added
+Recipe for salad already exists
+7 ingredients added to kitchen
+In the kitchen:
+  12 units of eggs
+  2 units of lettuce
+  5 units of tomatoes
+  400 units of salt
+  16 units of sugar
+  10 units of cheese
+  4 units of spinach
+No recipes can be prepared
+To make quiche, mix together:
+  1 unit of cheese
+  1 unit of spinach
+  2 units of salt
+  4 units of eggs
+  1 unit of tomatoes
+Made quiche
+No recipe for cheeseburger
+In the kitchen:
+  8 units of eggs
+  2 units of lettuce
+  4 units of tomatoes
+  398 units of salt
+  16 units of sugar
+  9 units of cheese
+  3 units of spinach
+No recipes can be prepared
+1 ingredient added to kitchen
+Do not know how to make cake
+Made salad
+Cannot make cookies, need to buy:
+  1 units of sugar
+  2 units of eggs
+  1 units of salt
+To make cookies, mix together:
+  1 unit of salt
+  2 units of eggs
+  3 units of flour
+  1 unit of sugar
+  2 units of butter
+  2 units of vanilla
+In the kitchen:
+  8 units of eggs
+  1 unit of lettuce
+  2 units of tomatoes
+  398 units of salt
+  16 units of sugar
+  9 units of cheese
+  3 units of spinach
+  2 units of spinach
+3 ingredients added to kitchen
+In the kitchen:
+  8 units of eggs
+  1 unit of lettuce
+  2 units of tomatoes
+  398 units of salt
+  16 units of sugar
+  9 units of cheese
+  3 units of spinach
+  2 units of spinach
+  24 units of vanilla
+  4 units of butter
+  24 units of flour
+Made cookies
+Made quiche
+In the kitchen:
+  2 units of eggs
+  1 unit of lettuce
+  1 unit of tomatoes
+  395 units of salt
+  15 units of sugar
+  8 units of cheese
+  2 units of spinach
+  1 unit of spinach
+  22 units of vanilla
+  2 units of butter
+  21 units of flour
+No recipes can be prepared
+Made cookies
+In the kitchen:
+  1 unit of lettuce
+  1 unit of tomatoes
+  394 units of salt
+  14 units of sugar
+  8 units of cheese
+  2 units of spinach
+  1 unit of spinach
+  20 units of vanilla
+  18 units of flour
+No recipes can be prepared
